@@ -1,0 +1,196 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.5">
+  <diagram name="Pagina-1" id="sEgALNngexEzOJSSQNeU">
+    <mxGraphModel dx="4614" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LXL0i6nfZfauAEkJTDu6-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LXL0i6nfZfauAEkJTDu6-1" target="LXL0i6nfZfauAEkJTDu6-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXL0i6nfZfauAEkJTDu6-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LXL0i6nfZfauAEkJTDu6-1" target="gZe1o7w_9KHJzbLOAT_o-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="589.9411764705883" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXL0i6nfZfauAEkJTDu6-1" value="&lt;font style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 15px;&quot;&gt;Vraag:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 15px;&quot;&gt;You find yourself standing at the edge of the jungle, with two paths ahead of you&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="100" width="670" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LXL0i6nfZfauAEkJTDu6-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="400" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXL0i6nfZfauAEkJTDu6-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="LXL0i6nfZfauAEkJTDu6-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LXL0i6nfZfauAEkJTDu6-4" target="gZe1o7w_9KHJzbLOAT_o-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LXL0i6nfZfauAEkJTDu6-4" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre; color: rgb(204, 204, 204);&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(206, 145, 120); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Option 1:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(206, 145, 120); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;This path leads through a dense thicket of thorns&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry y="290" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-7" target="gZe1o7w_9KHJzbLOAT_o-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-7" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px; white-space: pre; color: rgb(204, 204, 204);&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(206, 145, 120); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Option 2&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(206, 145, 120); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;This path seems to be clear and well-trodden&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="210" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-9" target="gZe1o7w_9KHJzbLOAT_o-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-9" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 19px; white-space: pre; color: rgb(204, 204, 204);&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(206, 145, 120); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;Vraag:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(206, 145, 120); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;You push your way through the thicket, &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(206, 145, 120); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;enduring scratches and cuts along the way. Eventually, &lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(206, 145, 120); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 16px;&quot;&gt;you emerge into a clearing and find a hidden cave.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="430" width="510" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-11" target="gZe1o7w_9KHJzbLOAT_o-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Option 1.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Do you enter the cave?&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="620" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-14" target="gZe1o7w_9KHJzbLOAT_o-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Option 2.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Do you continue on the path?&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="620" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.56;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-14" target="gZe1o7w_9KHJzbLOAT_o-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="691" />
+              <mxPoint x="190" y="691" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-17" target="gZe1o7w_9KHJzbLOAT_o-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-17" target="gZe1o7w_9KHJzbLOAT_o-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Vraag:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;You now have to decide whether to explore deeper or leave the cave&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-620" y="720" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-18" target="gZe1o7w_9KHJzbLOAT_o-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Option 1:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Explore deeper into the cave&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-870" y="860" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-20" target="gZe1o7w_9KHJzbLOAT_o-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;option 2:&lt;br&gt;&amp;nbsp;Leave the cave and go back to the jungle&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="860" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.846;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-9" target="gZe1o7w_9KHJzbLOAT_o-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-26" target="gZe1o7w_9KHJzbLOAT_o-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-26" target="gZe1o7w_9KHJzbLOAT_o-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Vraag:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;You follow the well-trodden path and come across a river&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="750" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-29" target="gZe1o7w_9KHJzbLOAT_o-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Option 1:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;You attempt to cross the rive&lt;/font&gt;r&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="950" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-31" target="gZe1o7w_9KHJzbLOAT_o-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;option 2:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;You eventually find your way out of the jungle&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="930" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-33" target="gZe1o7w_9KHJzbLOAT_o-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-33" target="gZe1o7w_9KHJzbLOAT_o-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Laatste Vraag:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;You venture deeper into the cave and discover a hidden treasure chest!&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="710" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="S2qyrcjzq7G4KxXPUirE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gZe1o7w_9KHJzbLOAT_o-34" target="S2qyrcjzq7G4KxXPUirE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;option 1:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;You decide to leave the cave and return to the jungle with the chest&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="920" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="S2qyrcjzq7G4KxXPUirE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gZe1o7w_9KHJzbLOAT_o-36" target="S2qyrcjzq7G4KxXPUirE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;option 2:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;You eventually find your way out of the jungle&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="910" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-67" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;after years you did not find the treasure chest End game&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="1090" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-70" target="gZe1o7w_9KHJzbLOAT_o-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-70" target="gZe1o7w_9KHJzbLOAT_o-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-70" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Laatste Vraag:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;You venture deeper into the cave and discover a hidden treasure chest!&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="1290" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-72" target="gZe1o7w_9KHJzbLOAT_o-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-72" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;option 1:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;You decide to leave the cave and return to the jungle with the chest&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-470" y="1510" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-73" target="gZe1o7w_9KHJzbLOAT_o-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;option 2:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;You eventually find your way out of the jungle&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="1520" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;You found hte chest&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="1723.5" width="200" height="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-78" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;after years you did not find the treasure chest End game&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="1740" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-80" target="gZe1o7w_9KHJzbLOAT_o-81" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-80" target="gZe1o7w_9KHJzbLOAT_o-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-80" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Vraag:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;You follow the well-trodden path and come across a river&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="380" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Option 1:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;You attempt to cross the rive&lt;/font&gt;r&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="550" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-82" target="gZe1o7w_9KHJzbLOAT_o-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-82" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;option 2:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;You eventually find your way out of the jungle&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="545" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.182;entryY=0.044;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gZe1o7w_9KHJzbLOAT_o-81" target="gZe1o7w_9KHJzbLOAT_o-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-88" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;after years you did not find the treasure chest End game&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="550" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gZe1o7w_9KHJzbLOAT_o-94" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;after years you did not find the treasure chest End game&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-570" y="1030" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="S2qyrcjzq7G4KxXPUirE-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;You found hte chest&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1120" width="200" height="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="S2qyrcjzq7G4KxXPUirE-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;after years you did not find the treasure chest End game&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1150" width="230" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
